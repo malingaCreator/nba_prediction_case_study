@@ -155,5 +155,4 @@ conclusion.
 
 ---
 
-Built by **[Galina Merz](https://www.linkedin.com/in/galinamerzh/)** ·
-Early June Labs
+Built by **[Galina M.](https://www.linkedin.com/in/galinamerzh/)** ·
